@@ -10,12 +10,9 @@ namespace TesteCSharp9._0
         }
 
 
-        public void notificar (string nome)
+        public void notificar (string nome!)
         {
-            if (nome is null)
-            {
-                //Instrucao ...
-            }
+           //Instrucao
         }
     }
 }
